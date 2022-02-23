@@ -1,6 +1,10 @@
 .link-decoration {
   text-decoration: none;
 }
+.list-decoration {
+  list-style-type: none;
+}
+
 body {
   font-family: Roboto, sans-serif;
   color: #212121;
