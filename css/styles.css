@@ -1,5 +1,28 @@
+.link-decoration {
+  text-decoration: none;
+}
 body {
   font-family: Roboto, sans-serif;
   color: #212121;
   background-color: #e5e5e5;
+}
+.header,
+.footer-logo {
+  font-family: Raleway;
+}
+.header-logo,
+.footer-logo {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+}
+.header-logo-fp,
+.footer-logo-fp {
+  color: #2196f3;
+}
+.header-logo-sp,
+.footer-logo-sp {
+  color: #000;
 }
