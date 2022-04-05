@@ -68,6 +68,8 @@ body {
 .link-decoration:focus {
   color: var(--accent-color);
 } 
+.curent-page {
+  color: var(--accent-color);}
 /* ------ section banner ------> */
 .section-banner{
  background: #2F303A;;
@@ -160,7 +162,7 @@ body {
   line-height: 1.6;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #212121;
+  color: var(--main-header-color);
   background: #F5F4FA;
   cursor: pointer;
   border: none;
